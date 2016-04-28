@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[regular foresight]]></title>
         <description><![CDATA[regular foresight]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/regular-foresight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:52:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 18:53:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/regular-foresight/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kazuyo Sejima to Design Next Generation Express Train that Melds Into the Environment]]></title>
             <description><![CDATA[<article><h1>Kazuyo Sejima to Design Next Generation Express Train that Melds Into the Environment</h1><p>In a press release issued overnight in Japan, Seibu Group announced plans for a new Limited Express train that would be designed by Kazuyo Sejima. Working with the train operator's design team, the architect - one half of the Pritzker-winning studio SANAA - has proposed a concept for Seibu'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d428acceaf4789ee96d43cbcfb33a4bb52fd329d.jpg"></article>]]></description>
             <link>http://www.spoon-tamago.com/2016/03/14/kazuyo-sejima-to-design-next-generation-bullet-train-that-melds-into-the-environment/</link>
             <guid isPermaLink="false">a5507fc5-917a-47d1-9d32-ca849b5a4a8c</guid>
+            <pubDate>Thu, 28 Apr 2016 18:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sevenhugs' Smart Remote]]></title>
+            <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/sevenhugs-smart-remote</link>
+            <guid isPermaLink="false">b9c8f17e-8731-428f-9b3c-1715ef25441b</guid>
             <pubDate>Thu, 28 Apr 2016 18:52:52 GMT</pubDate>
         </item>
     </channel>
