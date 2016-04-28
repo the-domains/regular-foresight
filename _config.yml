@@ -1,0 +1,14 @@
+layout_spectrum: 0.8266895886044949
+typography_spectrum: 0.09589829901233315
+color:
+  brandStrength: 0.056170593248680234
+  lightness: 0.7282613918650895
+  saturation: 0.4752040661405772
+  rhythmicContrast: 0.8617876393254846
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: regular foresight
